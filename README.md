@@ -1,1 +1,1 @@
-# Scripts use at your own risk!!!
+# Disclaimer - use scripts at your own risk.
